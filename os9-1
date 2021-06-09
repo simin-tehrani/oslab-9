@@ -1,0 +1,6 @@
+chown
+chown -R 
+chown -f 
+gpasswd
+gpasswd -r 
+gpasswd-d
